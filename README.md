@@ -22,7 +22,7 @@
     Actually, getting to learn NodeJs as well, trying to be a <strong> Fullstack Developer </strong>! 🚀
   </span>
 
-### :scroll: Summary:
+### :scroll: Summary :
   - 🖥️ FrontEnd Developer
   -  🔣 UX/UI Design
   -  BackEnd Developer (in progress ⏲️)
