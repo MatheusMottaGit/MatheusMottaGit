@@ -5,6 +5,6 @@
   <br>
 
   <div>
-    <img src="https://dribbble.com/shots/4801105-Late-night-coding?utm_source=Clipboard_Shot&utm_campaign=vectorloom&utm_content=Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=vectorloom&utm_content=Animation&utm_medium=Social_Share" width="30">
+    <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" width="30">
   </div>
 </div>
