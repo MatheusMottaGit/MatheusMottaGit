@@ -16,7 +16,7 @@
     higher with <strong> Typescript, and frameworks as ReactJs, NextJs, and Vite. </strong>
   </span>
 
-  <br>
+  <br><br>
 
   <span>
     - Actually, I'm now getting to know NodeJs as well, for trying to be a FullStack Developer in the future! 🚀
