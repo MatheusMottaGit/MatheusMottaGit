@@ -1,7 +1,9 @@
 <div id="header" align="left">
-  <div style="display: flex; flex-direction: column">
+  <div>
     Hey there! 🖖
-  
+
+  <br>
+    
    <strong>
      I'm Matheus, and I'm passionate about technology! 💻
    </strong>
