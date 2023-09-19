@@ -46,6 +46,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://www.thecodegiant.ca/img/tech-logos/nextjs.png" title="Git" **alt="Git" width="60" height="60"/>
 </div>
 </div>
