@@ -29,6 +29,6 @@
 
 ### :hammer_and_wrench: Languages and tools :
   <div>
-  <img src="https://github.com/devicons/icons/html5/html5-original-wordmark.svg" title="Java" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/icons/html5/html5-original-wordmark.svg" title="Java" alt="html" width="40" height="40"/>&nbsp;
 </div>
 </div>
