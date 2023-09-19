@@ -44,7 +44,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://topdemy.ir/upload/images/cover/2023/5/600_1685007281390.png" title="Git" **alt="Git" width="70" height="90"/>
+  <img src="https://topdemy.ir/upload/images/cover/2023/5/600_1685007281390.png" title="Git" **alt="Git" width="90" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://www.thecodegiant.ca/img/tech-logos/nextjs.png" title="Git" **alt="Git" width="80" height="50"/>
 </div>
