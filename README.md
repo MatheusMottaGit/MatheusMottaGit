@@ -17,4 +17,8 @@
   </span>
 
   <br><br>
+
+  <span>
+    Actually, getting to learn NodeJs as well, trying to be a <strong> Fullstack Developer </strong>! 🚀
+  </span>
 </div>
