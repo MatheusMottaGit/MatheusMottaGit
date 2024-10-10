@@ -13,7 +13,7 @@
 
   <br>
   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMottaGit&hide_progress=false)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMottaGit&hide_progress=true&theme=dark)
    
   ---
 
