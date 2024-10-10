@@ -13,12 +13,8 @@
 
   <br>
   
-   <span>
-     [![Matheus Domingues Motta's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?  
-     username=MatheusMottaGit&hide=php,javascript,blade,tailwind,css,typescript&theme=algolia&show_icons=true)] 
-    (https://github.com/MatheusMottaGit)
-   </span>
-
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMottaGit&hide_progress=true)
+   
   ---
 
 ### :man_technologist: About Me :
