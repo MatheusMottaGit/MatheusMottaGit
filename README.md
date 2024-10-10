@@ -13,26 +13,29 @@
 
   <br>
   
-  <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" height="400" width="1000">
+   <span>
+     [(https://github-readme-stats.vercel.app/api/top-langs?  
+     username=MatheusMottaGit&hide=php,javascript,blade,tailwind,css,typescript&theme=algolia&show_icons=true)] 
+    (https://github.com/MatheusMottaGit)
+   </span>
 
   ---
 
 ### :man_technologist: About Me :
   <span>
-    Since 2021, I am working to improve my coding skills as a Front-End Developer. During this time, I've learned the basics of frontend as   <strong> HTML5, CSS, JavaScript </strong>, and now, getting higher and 
-    higher with <strong> Typescript, and frameworks as ReactJs, NextJs, and Vite. </strong>
+    Since 2021, I am working to improve my coding skills as a Front-End Developer. During this time, I've learned the basics of frontend as   <strong> HTML5, CSS, JavaScript </strong>, and now, working with PHP and Laravel framework!
   </span>
 
   <br>
 
   <span>
-    Actually, getting to learn NodeJs as well, trying to be a <strong> Fullstack Developer </strong>! 🚀
+    Actually, getting to learn more about this tools, trying to be a <strong> Fullstack Developer </strong>! 🚀
   </span>
 
 ### :scroll: Summary :
-  - 🖥️ FrontEnd Developer
+  - 🖥️ FrontEnd Developer (PHP, Laravel, Livewire, JavaScript, ReactJs, Tailwindcss, etc...)
   -  🔣 UX/UI Design
-  -  BackEnd Developer (in progress ⏲️)
+  -  BackEnd Developer (Laravel in progress... ⏲️)
 
 ### :hammer_and_wrench: Languages and tools :
   <div>
