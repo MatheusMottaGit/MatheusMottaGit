@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
   <span>
-    Since 2021, I am working to improve my coding skills as a Front-End Developer. During this time, I've learned the basics of frontend as   <strong> HTML5, CSS, JavaScript </strong>, and now, working with PHP and Laravel framework!
+    Since 2021, I am working to improve my coding skills as a FullStack Developer. During this time, I've learned the basics of frontend as   <strong> HTML5, CSS, JavaScript </strong>, and now, working with PHP and Laravel framework!
   </span>
 
   <br>
