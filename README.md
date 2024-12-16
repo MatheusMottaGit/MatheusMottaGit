@@ -22,12 +22,8 @@
     Hello! As a FullStack Web Developer, I've been studying, working and improving since 2021. I believe that solve real problems with technology, by creating tools and softwares, is powerfull! Perhaps, can say I'm an easy lover of web interfaces! I usually code with PHP, recently Laravel, and I'm always learning more and trying to understand why things happen!
   </span>
 
-  <br>
-
-  <span>
-    Actually, getting to learn more about this tools, trying to be a <strong> Fullstack Developer </strong>! 🚀
-  </span>
+<br>
 
 ### :scroll: Summary :
   - 3 years of experience
-  - 🖥️ FullStack Development (PHP, Laravel, Livewire, JavaScript, Tailwindcss, etc...)
+  - 🖥️ PHP | Laravel | JavaScript | PostgreSQL | Livewire
