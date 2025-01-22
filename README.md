@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/matheus-domingues-motta-918438257/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<!--     <a href="https://www.instagram.com/o_matheus_motta/">
+    <a href="https://www.instagram.com/omotta.dev/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a> -->
+    </a>
   </div>
 
   <br>
