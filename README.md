@@ -26,4 +26,4 @@
 
 ### :scroll: Summary :
   - 3 years of experience
-  - 🖥️ PHP | Laravel | JavaScript | PostgreSQL | Livewire
+  - 🖥️ PHP | Laravel | Docker | SQL | Livewire | PostgreSQL | MySQL
