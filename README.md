@@ -19,11 +19,12 @@
 
 ### :man_technologist: About Me :
   <span>
-    Hello! As a FullStack Web Developer, I've been studying, working and improving since 2021. I believe that solve real problems with technology, by creating tools and softwares, is powerfull! Perhaps, can say I'm an easy lover of web interfaces! I usually code with PHP, recently Laravel, and I'm always learning more and trying to understand why things happen!
+    Hello! As a FullStack Web Developer, I've been studying, working and improving since 2021. I believe that solve real problems with technology, by creating tools and softwares, is powerfull!
+    I usually code using PHP/Laravel, and I'm always learning more and trying to understand why things happen!
   </span>
 
 <br>
 
 ### :scroll: Summary :
-  - 3 years of experience
-  - 🖥️ PHP | Laravel | Docker | SQL | Livewire | PostgreSQL | MySQL
+  - +3 years of experience
+  - 🖥️ PHP | Laravel | Docker | SQL | Livewire | PostgreSQL | MySQL | VueJS
